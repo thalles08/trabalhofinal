@@ -1,0 +1,32 @@
+{
+  "name": "atividade2backend",
+  "version": "1.0.0",
+  "description": "Atividade 2 - Implementação do backend do projeto com as camadas de Moledo e Persistência.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalles08/atividade2backend.git"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "javascript",
+    "desenvolvimento"
+  ],
+  "author": "Thalles Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thalles08/atividade2backend/issues"
+  },
+  "homepage": "https://github.com/thalles08/atividade2backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql2": "^3.6.3"
+  }
+}
