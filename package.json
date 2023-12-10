@@ -1,7 +1,7 @@
 {
-  "name": "atividade2backend",
+  "name": "trabalhofinal",
   "version": "1.0.0",
-  "description": "Atividade 2 - Implementação do backend do projeto com as camadas de Moledo e Persistência.",
+  "description": "Trabalho final da disciplina de Programação I",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thalles08/atividade2backend.git"
+    "url": "git+https://github.com/thalles08/trabalhofinal.git"
   },
   "keywords": [
     "backend",
@@ -21,9 +21,9 @@
   "author": "Thalles Souza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thalles08/atividade2backend/issues"
+    "url": "https://github.com/thalles08/trabalhofinal/issues"
   },
-  "homepage": "https://github.com/thalles08/atividade2backend#readme",
+  "homepage": "https://github.com/thalles08/trabalhofinal#readme",
   "dependencies": {
     "express": "^4.18.2",
     "express-session": "^1.17.3",

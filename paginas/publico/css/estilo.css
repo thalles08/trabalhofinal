@@ -9,7 +9,7 @@ body {
 
 .titulo {
     width: 700px;
-    margin: 50px auto 0;
+    margin: 40px auto 0;
     text-align: center;
     color: #4000FF;
     font-size: 36px;
@@ -21,7 +21,7 @@ body {
     width: 700px;
     border-radius: 10px;
     padding: 50px;
-    margin: 100px auto 0;
+    margin: 70px auto 0;
     color: #FAFAFA;
 }
 
@@ -39,16 +39,25 @@ body {
 .card {
     background-color: #4000FF;
     height: 100px;
-    width: 300px;
+    width: 400px;
     border-radius: 5px;
     padding: 15px;
-    margin: 70px auto 0;
+    margin: 30px auto 30px;
     color: #FAFAFA;
     text-align: center;
     font-size: 21px;
     font-weight: bold;
     justify-content: center;
     align-items: center;
+}
+
+.conteudo {
+    background-color: #ffffff;
+    width: 700px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 40px auto 0;
+    color: #4000FF;
 }
 
 a {
@@ -61,7 +70,7 @@ a {
     width: 1000px;
     border-radius: 10px;
     padding: 15px;
-    margin: 50px auto 0;
+    margin: 40px auto 0;
     color: #4000FF;
 }
 
@@ -69,7 +78,7 @@ a {
     background-color: #A4A4A4;
     height: 40px;
     width: 700px;
-    border-radius: 10px;
+    border-radius: 5px;
     padding: 15px;
     margin: 40px auto 0;
     color: #FAFAFA;
