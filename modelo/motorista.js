@@ -162,7 +162,7 @@ export default class Motorista {
 
     async consultar() {
         const motDAO = new MotoristaDAO();
-        await motDAO.consultar(this);
+        return await motDAO.consultar(this);
     }
 
 }

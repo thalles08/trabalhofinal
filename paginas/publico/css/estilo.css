@@ -67,7 +67,7 @@ a {
 
 .formulario {
     background-color: #ffffff;
-    width: 1000px;
+    width: 1200px;
     border-radius: 10px;
     padding: 15px;
     margin: 40px auto 0;
@@ -88,6 +88,14 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 100px
+    gap: 90px
 }
 
+.tabela {
+    background-color: #ffffff;
+    width: 1200px;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 40px auto 0;
+    color: #4000FF;
+}

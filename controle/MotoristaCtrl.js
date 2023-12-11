@@ -26,7 +26,7 @@ export default class MotoristaCtrl {
                 motorista.gravar().then(()=>{
                     resposta.json({
                         status: true,
-                        mensagem: "Motorista gravado com sucesso!",
+                        mensagem: "Motorista gravado com sucesso! ",
                         id_motorista: motorista.id
                     });
                 }).catch((erro)=>{
@@ -76,7 +76,7 @@ export default class MotoristaCtrl {
                 motorista.atualizar().then(()=>{
                     resposta.json({
                         status: true,
-                        mensagem: "Motorista atualizado com sucesso!",
+                        mensagem: "Motorista atualizado com sucesso! ",
                         id_motorista: motorista.id
                     });
                 }).catch((erro)=>{

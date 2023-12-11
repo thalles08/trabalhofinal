@@ -118,7 +118,7 @@ export default class Veiculo {
 
     async consultar() {
         const veicDAO = new VeiculoDAO();
-        await veicDAO.consultar(this);
+        return await veicDAO.consultar(this);
     }
 
 }
