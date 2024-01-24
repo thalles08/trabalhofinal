@@ -6,7 +6,7 @@ Uma das exigências é que a aplicação esteja disponível na Internet, impleme
 
 Para desenvolver o projeto, foi feito uso dos seguintes recursos/tecnologias:
 
-Para o backend: NodeJS e Express + MySQL
+Para o backend: Node.js e Express.js + MySQL
 
 Para o frontend: HTML + CSS + Javascript
 
